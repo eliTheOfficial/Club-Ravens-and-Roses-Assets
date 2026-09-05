@@ -3,7 +3,7 @@
   "roomType": "stage",
   "slideInterval": 5,
   "updatedAt": "2026-09-01T00:00:00.000Z",
-  "djTableImage": "https://githubusercontent.com",
+  "djTableImage": "",
   "djTableUpdatedAt": "2026-09-01T00:00:00.000Z",
   "alleywayBanner": "https://githubusercontent.com",
   "alleywayBannerUpdatedAt": "2026-09-01T00:00:00.000Z",
@@ -34,5 +34,6 @@
   "poster9": [],
   "poster9UpdatedAt": "2026-09-01T00:00:00.000Z",
   "poster10": [],
-  "poster10UpdatedAt": "2026-09-01T00:00:00.000Z"
+  "poster10UpdatedAt": "2026-09-01T00:00:00.000Z",
+  "djTableImageUpdatedAt": "2026-09-05T05:41:23.801Z"
 }
