@@ -2,7 +2,7 @@
   "worldId": "world1",
   "roomType": "lobby",
   "slideInterval": 5,
-  "updatedAt": "2026-09-05T05:42:58.815Z",
+  "updatedAt": "2026-09-05T05:44:03.365Z",
   "djTableImage": "https://githubusercontent.com",
   "djTableUpdatedAt": "2026-09-05T05:42:58.815Z",
   "alleywayBanner": "https://githubusercontent.com",
@@ -15,8 +15,10 @@
   "bannerEmptyTextureUpdatedAt": "2026-09-01T00:00:00.000Z",
   "bannerLoadingTexture": "https://githubusercontent.com",
   "bannerLoadingTextureUpdatedAt": "2026-09-01T00:00:00.000Z",
-  "poster1": [],
-  "poster1UpdatedAt": "2026-09-01T00:00:00.000Z",
+  "poster1": [
+    "https://raw.githubusercontent.com/EliMoses/Club-Ravens-and-Roses-Assets/main/posters/world1_poster1_slot0.png"
+  ],
+  "poster1UpdatedAt": "2026-09-05T05:44:03.365Z",
   "poster2": [],
   "poster2UpdatedAt": "2026-09-01T00:00:00.000Z",
   "poster3": [],
@@ -37,7 +39,9 @@
   "poster10UpdatedAt": "2026-09-01T00:00:00.000Z",
   "djTableImageUpdatedAt": "2026-09-05T05:41:23.801Z",
   "posterState": {
-    "poster1": [],
+    "poster1": [
+      "https://raw.githubusercontent.com/EliMoses/Club-Ravens-and-Roses-Assets/main/posters/world1_poster1_slot0.png"
+    ],
     "poster2": [],
     "poster3": [],
     "poster4": [],
@@ -48,6 +52,6 @@
     "poster9": [],
     "poster10": []
   },
-  "emptyTexture": "",
-  "loadingTexture": ""
+  "emptyTexture": "https://githubusercontent.com",
+  "loadingTexture": "https://githubusercontent.com"
 }
