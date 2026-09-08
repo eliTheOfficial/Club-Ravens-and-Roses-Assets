@@ -1,16 +1,16 @@
 {
   "worldId": "world1",
-  "roomType": "stage",
+  "roomType": "lobby",
   "slideInterval": 5,
-  "updatedAt": "2026-09-08T16:24:19.303Z",
+  "updatedAt": "2026-09-08T19:09:17.735Z",
   "djTableImage": "",
-  "djTableUpdatedAt": "2026-09-05T06:21:07.306Z",
+  "djTableUpdatedAt": "2026-09-08T19:09:17.735Z",
   "alleywayBanner": "",
-  "alleywayBannerUpdatedAt": "2026-09-08T17:30:03.672Z",
+  "alleywayBannerUpdatedAt": "2026-09-08T19:09:17.735Z",
   "poster1": [
     "https://eliTheOfficial.github.io/Club-Ravens-and-Roses-Assets/posters/world1_poster1_slot0.png"
   ],
-  "poster1UpdatedAt": "2026-09-05T06:21:04.995Z",
+  "poster1UpdatedAt": "2026-09-08T19:09:17.735Z",
   "poster2": [],
   "poster2UpdatedAt": "2026-09-01T00:00:00.000Z",
   "poster3": [],
