@@ -6,9 +6,7 @@
     "poster1": [
       "https://eliTheOfficial.github.io/Club-Ravens-and-Roses-Assets/posters/world1_poster1_slot0.png"
     ],
-    "poster2": [
-      "https://eliTheOfficial.github.io/Club-Ravens-and-Roses-Assets/posters/world1_poster2_slot0.png"
-    ],
+    "poster2": [],
     "poster3": [],
     "poster4": [],
     "poster5": [],
@@ -22,10 +20,8 @@
     "https://eliTheOfficial.github.io/Club-Ravens-and-Roses-Assets/posters/world1_poster1_slot0.png"
   ],
   "poster1UpdatedAt": "2026-09-08T20:10:44.480Z",
-  "poster2": [
-    "https://eliTheOfficial.github.io/Club-Ravens-and-Roses-Assets/posters/world1_poster2_slot0.png"
-  ],
-  "poster2UpdatedAt": "2026-09-08T20:10:20.068Z",
+  "poster2": [],
+  "poster2UpdatedAt": "2026-09-08T20:10:47.550Z",
   "poster3": [],
   "poster3UpdatedAt": "2026-09-01T00:00:00.000Z",
   "poster4": [],
@@ -47,5 +43,5 @@
   "alleywayBanner": "",
   "alleywayBannerUpdatedAt": "2026-09-08T20:09:16.550Z",
   "djTableUpdatedAt": "2026-09-08T20:09:16.550Z",
-  "updatedAt": "2026-09-08T20:10:44.480Z"
+  "updatedAt": "2026-09-08T20:10:47.550Z"
 }
