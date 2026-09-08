@@ -1,8 +1,8 @@
 {
   "worldId": "world1",
-  "roomType": "lobby",
+  "roomType": "stage",
   "slideInterval": 5,
-  "updatedAt": "2026-09-08T16:24:15.700Z",
+  "updatedAt": "2026-09-08T16:24:19.303Z",
   "djTableImage": "https://eliTheOfficial.github.io/Club-Ravens-and-Roses-Assets/banners/world1_dj_table.png",
   "djTableUpdatedAt": "2026-09-05T06:21:07.306Z",
   "alleywayBanner": "https://eliTheOfficial.github.io/Club-Ravens-and-Roses-Assets/banners/world1_alleyway_banner.png",
