@@ -1,10 +1,12 @@
 {
   "worldId": "world1",
-  "slideInterval": 3,
+  "slideInterval": 5,
   "roomType": "lobby",
   "posterState": {
     "poster1": [],
-    "poster2": [],
+    "poster2": [
+      "https://eliTheOfficial.github.io/Club-Ravens-and-Roses-Assets/posters/world1_poster2_slot0.png"
+    ],
     "poster3": [],
     "poster4": [],
     "poster5": [],
@@ -15,27 +17,31 @@
     "poster10": []
   },
   "poster1": [],
-  "poster1UpdatedAt": null,
-  "poster2": [],
-  "poster2UpdatedAt": "2026-09-08T20:01:12.372Z",
+  "poster1UpdatedAt": "2026-09-08T19:34:13.054Z",
+  "poster2": [
+    "https://eliTheOfficial.github.io/Club-Ravens-and-Roses-Assets/posters/world1_poster2_slot0.png"
+  ],
+  "poster2UpdatedAt": "2026-09-08T20:01:16.022Z",
   "poster3": [],
-  "poster3UpdatedAt": null,
+  "poster3UpdatedAt": "2026-09-01T00:00:00.000Z",
   "poster4": [],
-  "poster4UpdatedAt": null,
+  "poster4UpdatedAt": "2026-09-01T00:00:00.000Z",
   "poster5": [],
-  "poster5UpdatedAt": null,
+  "poster5UpdatedAt": "2026-09-01T00:00:00.000Z",
   "poster6": [],
-  "poster6UpdatedAt": null,
+  "poster6UpdatedAt": "2026-09-01T00:00:00.000Z",
   "poster7": [],
-  "poster7UpdatedAt": null,
+  "poster7UpdatedAt": "2026-09-01T00:00:00.000Z",
   "poster8": [],
-  "poster8UpdatedAt": null,
+  "poster8UpdatedAt": "2026-09-01T00:00:00.000Z",
   "poster9": [],
-  "poster9UpdatedAt": null,
+  "poster9UpdatedAt": "2026-09-01T00:00:00.000Z",
   "poster10": [],
-  "poster10UpdatedAt": null,
+  "poster10UpdatedAt": "2026-09-01T00:00:00.000Z",
   "djTableImage": "",
   "djTableImageUpdatedAt": null,
   "alleywayBanner": "",
-  "alleywayBannerUpdatedAt": null
+  "alleywayBannerUpdatedAt": "2026-09-08T20:01:16.022Z",
+  "djTableUpdatedAt": "2026-09-08T20:01:16.022Z",
+  "updatedAt": "2026-09-08T20:01:16.022Z"
 }
