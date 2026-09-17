@@ -1,10 +1,11 @@
 {
   "worldId": "world1",
   "slideInterval": 5,
-  "roomType": "lobby",
+  "roomType": "stage",
   "posterState": {
     "poster1": [
-      "https://eliTheOfficial.github.io/Club-Ravens-and-Roses-Assets/posters/world1_poster1_slot0.png"
+      "https://eliTheOfficial.github.io/Club-Ravens-and-Roses-Assets/posters/world1_poster1_slot0.png",
+      "https://eliTheOfficial.github.io/Club-Ravens-and-Roses-Assets/posters/world1_poster1_slot1.png"
     ],
     "poster2": [],
     "poster3": [],
@@ -17,9 +18,10 @@
     "poster10": []
   },
   "poster1": [
-    "https://eliTheOfficial.github.io/Club-Ravens-and-Roses-Assets/posters/world1_poster1_slot0.png"
+    "https://eliTheOfficial.github.io/Club-Ravens-and-Roses-Assets/posters/world1_poster1_slot0.png",
+    "https://eliTheOfficial.github.io/Club-Ravens-and-Roses-Assets/posters/world1_poster1_slot1.png"
   ],
-  "poster1UpdatedAt": "2026-09-14T23:54:12.177Z",
+  "poster1UpdatedAt": "2026-09-17T22:00:36.321Z",
   "poster2": [],
   "poster2UpdatedAt": "2026-09-14T23:53:26.369Z",
   "poster3": [],
@@ -38,10 +40,10 @@
   "poster9UpdatedAt": "2026-09-01T00:00:00.000Z",
   "poster10": [],
   "poster10UpdatedAt": "2026-09-01T00:00:00.000Z",
-  "djTableImage": "",
-  "djTableImageUpdatedAt": "2026-09-08T20:38:49.191Z",
-  "alleywayBanner": "",
-  "alleywayBannerUpdatedAt": "2026-09-08T20:38:53.449Z",
+  "djTableImage": "https://eliTheOfficial.github.io/Club-Ravens-and-Roses-Assets/banners/world1_dj_table.png",
+  "djTableImageUpdatedAt": "2026-09-17T22:00:36.321Z",
+  "alleywayBanner": "https://eliTheOfficial.github.io/Club-Ravens-and-Roses-Assets/banners/world1_alleyway_banner.png",
+  "alleywayBannerUpdatedAt": "2026-09-17T22:00:36.321Z",
   "djTableUpdatedAt": "2026-09-08T20:09:16.550Z",
-  "updatedAt": "2026-09-14T23:54:12.177Z"
+  "updatedAt": "2026-09-17T22:00:36.321Z"
 }
