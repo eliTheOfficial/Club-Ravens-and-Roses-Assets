@@ -45,7 +45,7 @@
   "alleywayBanner": "https://eliTheOfficial.github.io/Club-Ravens-and-Roses-Assets/banners/world1_alleyway_banner.png",
   "alleywayBannerUpdatedAt": "2026-09-17T22:00:36.321Z",
   "djTableUpdatedAt": "2026-09-08T20:09:16.550Z",
-  "updatedAt": "2026-09-17T22:50:11.363Z",
+  "updatedAt": "2026-09-17T22:51:47.636Z",
   "worlds": {
     "world1": {
       "worldId": "world1",
@@ -55,11 +55,8 @@
         "lobby": {
           "posters": {
             "poster1": {
-              "slots": [
-                "https://eliTheOfficial.github.io/Club-Ravens-and-Roses-Assets/posters/world1_poster1_slot0.png",
-                "https://eliTheOfficial.github.io/Club-Ravens-and-Roses-Assets/posters/world1_poster1_slot1.png"
-              ],
-              "updatedAt": null
+              "slots": [],
+              "updatedAt": "2026-09-17T22:51:47.636Z"
             },
             "poster2": {
               "slots": [],
@@ -104,21 +101,21 @@
           },
           "banners": {
             "djTable": {
-              "url": "https://eliTheOfficial.github.io/Club-Ravens-and-Roses-Assets/banners/world1_dj_table.png",
-              "updatedAt": null
+              "url": "",
+              "updatedAt": "2026-09-17T22:51:47.636Z"
             }
           }
         },
         "alleyway": {
           "banners": {
             "alleywayBanner": {
-              "url": "https://eliTheOfficial.github.io/Club-Ravens-and-Roses-Assets/banners/world1_alleyway_banner.png",
-              "updatedAt": null
+              "url": "",
+              "updatedAt": "2026-09-17T22:51:47.636Z"
             }
           }
         }
       },
-      "updatedAt": "2026-09-17T22:50:11.363Z"
+      "updatedAt": "2026-09-17T22:51:47.636Z"
     }
   }
 }
