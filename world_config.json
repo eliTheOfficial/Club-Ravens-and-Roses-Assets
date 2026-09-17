@@ -45,5 +45,80 @@
   "alleywayBanner": "https://eliTheOfficial.github.io/Club-Ravens-and-Roses-Assets/banners/world1_alleyway_banner.png",
   "alleywayBannerUpdatedAt": "2026-09-17T22:00:36.321Z",
   "djTableUpdatedAt": "2026-09-08T20:09:16.550Z",
-  "updatedAt": "2026-09-17T22:00:36.321Z"
+  "updatedAt": "2026-09-17T22:50:11.363Z",
+  "worlds": {
+    "world1": {
+      "worldId": "world1",
+      "slideIntervalSeconds": 5,
+      "roomType": "lobby",
+      "rooms": {
+        "lobby": {
+          "posters": {
+            "poster1": {
+              "slots": [
+                "https://eliTheOfficial.github.io/Club-Ravens-and-Roses-Assets/posters/world1_poster1_slot0.png",
+                "https://eliTheOfficial.github.io/Club-Ravens-and-Roses-Assets/posters/world1_poster1_slot1.png"
+              ],
+              "updatedAt": null
+            },
+            "poster2": {
+              "slots": [],
+              "updatedAt": null
+            },
+            "poster3": {
+              "slots": [],
+              "updatedAt": null
+            },
+            "poster4": {
+              "slots": [],
+              "updatedAt": null
+            }
+          }
+        },
+        "stage": {
+          "posters": {
+            "poster5": {
+              "slots": [],
+              "updatedAt": null
+            },
+            "poster6": {
+              "slots": [],
+              "updatedAt": null
+            },
+            "poster7": {
+              "slots": [],
+              "updatedAt": null
+            },
+            "poster8": {
+              "slots": [],
+              "updatedAt": null
+            },
+            "poster9": {
+              "slots": [],
+              "updatedAt": null
+            },
+            "poster10": {
+              "slots": [],
+              "updatedAt": null
+            }
+          },
+          "banners": {
+            "djTable": {
+              "url": "https://eliTheOfficial.github.io/Club-Ravens-and-Roses-Assets/banners/world1_dj_table.png",
+              "updatedAt": null
+            }
+          }
+        },
+        "alleyway": {
+          "banners": {
+            "alleywayBanner": {
+              "url": "https://eliTheOfficial.github.io/Club-Ravens-and-Roses-Assets/banners/world1_alleyway_banner.png",
+              "updatedAt": null
+            }
+          }
+        }
+      },
+      "updatedAt": "2026-09-17T22:50:11.363Z"
+    }
+  }
 }
