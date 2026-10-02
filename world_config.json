@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-17T22:54:55.597Z",
+  "updatedAt": "2026-10-02T05:47:48.897Z",
   "worlds": {
     "world1": {
       "worldId": "world1",
@@ -9,8 +9,10 @@
         "lobby": {
           "posters": {
             "poster1": {
-              "slots": [],
-              "updatedAt": "2026-09-17T22:51:47.636Z"
+              "slots": [
+                "https://eliTheOfficial.github.io/Club-Ravens-and-Roses-Assets/posters/world1_poster1_slot0.png"
+              ],
+              "updatedAt": "2026-10-02T05:47:48.897Z"
             },
             "poster2": {
               "slots": [],
@@ -69,7 +71,7 @@
           }
         }
       },
-      "updatedAt": "2026-09-17T22:54:55.597Z"
+      "updatedAt": "2026-10-02T05:47:48.897Z"
     }
   }
 }
