@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-02T06:32:40.960Z",
+  "updatedAt": "2026-10-02T06:53:16.758Z",
   "worlds": {
     "world1": {
       "worldId": "world1",
@@ -9,31 +9,20 @@
         "lobby": {
           "posters": {
             "poster1": {
-              "slots": [
-                "https://eliTheOfficial.github.io/Club-Ravens-and-Roses-Assets/posters/world1_poster1_slot0.png",
-                "https://eliTheOfficial.github.io/Club-Ravens-and-Roses-Assets/posters/world1_poster1_slot1.png",
-                "https://eliTheOfficial.github.io/Club-Ravens-and-Roses-Assets/posters/world1_poster1_slot2.png"
-              ],
-              "updatedAt": "2026-10-02T06:26:40.454Z"
+              "slots": [],
+              "updatedAt": "2026-10-02T06:53:16.758Z"
             },
             "poster2": {
-              "slots": [
-                "https://eliTheOfficial.github.io/Club-Ravens-and-Roses-Assets/posters/world1_poster2_slot0.png"
-              ],
-              "updatedAt": "2026-10-02T06:26:40.454Z"
+              "slots": [],
+              "updatedAt": "2026-10-02T06:53:16.758Z"
             },
             "poster3": {
-              "slots": [
-                "https://eliTheOfficial.github.io/Club-Ravens-and-Roses-Assets/posters/world1_poster3_slot0.png",
-                "https://eliTheOfficial.github.io/Club-Ravens-and-Roses-Assets/posters/world1_poster3_slot1.png"
-              ],
-              "updatedAt": "2026-10-02T06:26:40.454Z"
+              "slots": [],
+              "updatedAt": "2026-10-02T06:53:16.758Z"
             },
             "poster4": {
-              "slots": [
-                "https://eliTheOfficial.github.io/Club-Ravens-and-Roses-Assets/posters/world1_poster4_slot0.png"
-              ],
-              "updatedAt": "2026-10-02T06:26:40.454Z"
+              "slots": [],
+              "updatedAt": "2026-10-02T06:53:16.758Z"
             }
           }
         },
@@ -80,7 +69,7 @@
           }
         }
       },
-      "updatedAt": "2026-10-02T06:32:40.960Z"
+      "updatedAt": "2026-10-02T06:53:16.758Z"
     }
   }
 }
