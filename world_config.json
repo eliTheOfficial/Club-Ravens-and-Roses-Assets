@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-21T18:22:48.482Z",
+  "updatedAt": "2026-10-21T18:32:43.101Z",
   "worlds": {
     "world1": {
       "worldId": "world1",
@@ -29,40 +29,28 @@
         "stage": {
           "posters": {
             "poster5": {
-              "slots": [
-                "https://eliTheOfficial.github.io/Club-Ravens-and-Roses-Assets/posters/world1_poster5_slot0.png"
-              ],
-              "updatedAt": "2026-10-21T18:22:48.482Z"
+              "slots": [],
+              "updatedAt": "2026-10-21T18:32:43.101Z"
             },
             "poster6": {
-              "slots": [
-                "https://eliTheOfficial.github.io/Club-Ravens-and-Roses-Assets/posters/world1_poster6_slot0.png"
-              ],
-              "updatedAt": "2026-10-21T18:22:48.482Z"
+              "slots": [],
+              "updatedAt": "2026-10-21T18:32:43.101Z"
             },
             "poster7": {
-              "slots": [
-                "https://eliTheOfficial.github.io/Club-Ravens-and-Roses-Assets/posters/world1_poster7_slot0.png"
-              ],
-              "updatedAt": "2026-10-21T18:22:48.482Z"
+              "slots": [],
+              "updatedAt": "2026-10-21T18:32:43.101Z"
             },
             "poster8": {
-              "slots": [
-                "https://eliTheOfficial.github.io/Club-Ravens-and-Roses-Assets/posters/world1_poster8_slot0.png"
-              ],
-              "updatedAt": "2026-10-21T18:22:48.482Z"
+              "slots": [],
+              "updatedAt": "2026-10-21T18:32:43.101Z"
             },
             "poster9": {
-              "slots": [
-                "https://eliTheOfficial.github.io/Club-Ravens-and-Roses-Assets/posters/world1_poster9_slot0.png"
-              ],
-              "updatedAt": "2026-10-21T18:22:48.482Z"
+              "slots": [],
+              "updatedAt": "2026-10-21T18:32:43.101Z"
             },
             "poster10": {
-              "slots": [
-                "https://eliTheOfficial.github.io/Club-Ravens-and-Roses-Assets/posters/world1_poster10_slot0.png"
-              ],
-              "updatedAt": "2026-10-21T18:22:48.482Z"
+              "slots": [],
+              "updatedAt": "2026-10-21T18:32:43.101Z"
             }
           },
           "banners": {
@@ -81,7 +69,7 @@
           }
         }
       },
-      "updatedAt": "2026-10-21T18:22:48.482Z"
+      "updatedAt": "2026-10-21T18:32:43.101Z"
     }
   }
 }
