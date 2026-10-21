@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-21T18:09:33.650Z",
+  "updatedAt": "2026-10-21T18:11:55.953Z",
   "worlds": {
     "world1": {
       "worldId": "world1",
@@ -9,12 +9,18 @@
         "lobby": {
           "posters": {
             "poster1": {
-              "slots": [],
-              "updatedAt": "2026-10-19T05:20:35.447Z"
+              "slots": [
+                "https://eliTheOfficial.github.io/Club-Ravens-and-Roses-Assets/posters/world1_poster1_slot0.png",
+                "https://eliTheOfficial.github.io/Club-Ravens-and-Roses-Assets/posters/world1_poster1_slot1.png"
+              ],
+              "updatedAt": "2026-10-21T18:11:55.953Z"
             },
             "poster2": {
-              "slots": [],
-              "updatedAt": "2026-10-19T05:20:35.447Z"
+              "slots": [
+                "https://eliTheOfficial.github.io/Club-Ravens-and-Roses-Assets/posters/world1_poster2_slot0.png",
+                "https://eliTheOfficial.github.io/Club-Ravens-and-Roses-Assets/posters/world1_poster2_slot1.png"
+              ],
+              "updatedAt": "2026-10-21T18:11:55.953Z"
             },
             "poster3": {
               "slots": [],
@@ -69,7 +75,7 @@
           }
         }
       },
-      "updatedAt": "2026-10-21T18:09:33.650Z"
+      "updatedAt": "2026-10-21T18:11:55.953Z"
     }
   }
 }
