@@ -1,1 +1,10 @@
-[]
+{
+  "whitelist": [
+    {
+      "userId": "usr_2f68aad6-732d-467b-8780-1aac4fff2ce5",
+      "displayName": "test test test",
+      "rank": "VIP",
+      "profileImageUrl": null
+    }
+  ]
+}
