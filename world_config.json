@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-21T18:11:55.953Z",
+  "updatedAt": "2026-10-21T18:21:44.146Z",
   "worlds": {
     "world1": {
       "worldId": "world1",
@@ -69,13 +69,13 @@
         "alleyway": {
           "banners": {
             "alleywayBanner": {
-              "url": "https://eliTheOfficial.github.io/Club-Ravens-and-Roses-Assets/banners/world1_alleyway_banner.png?v=06d9b88c5471c8dc",
-              "updatedAt": "2026-10-21T18:09:33.650Z"
+              "url": "",
+              "updatedAt": "2026-10-21T18:21:44.146Z"
             }
           }
         }
       },
-      "updatedAt": "2026-10-21T18:11:55.953Z"
+      "updatedAt": "2026-10-21T18:21:44.146Z"
     }
   }
 }
