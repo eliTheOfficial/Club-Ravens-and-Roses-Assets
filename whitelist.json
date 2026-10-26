@@ -1,3 +1,10 @@
 {
-  "whitelist": []
+  "whitelist": [
+    {
+      "userId": "usr_98ea864c-a0aa-4bf0-b427-1dcfa0531fa5",
+      "displayName": "eliTheOfficial",
+      "rank": "Security",
+      "profileImageUrl": null
+    }
+  ]
 }
